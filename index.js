@@ -7,13 +7,10 @@ let shopName = "Fulghor";
 let productPrice = 12000;
 let examMark = 90;
 const holdingNo = 252/2;
-let userPhoneNumber = 0123456789;
-const userNidNo = 0997564523;
+let userPhoneNumber = 123456789;
+const userNidNo = 997564523;
 // Boolean data type
 const isBangladeshi = true;
-let first
-
-
 let firstNumber = 500;
 let secondNumber = 5;
 let devision = firstNumber / secondNumber;
@@ -45,4 +42,5 @@ let userProfile = {
     address: 'Dhaka',
     educational: 'Dhaka University',
 }
+let salary = [40000, 124555];
 console.log(friendList);
