@@ -62,6 +62,13 @@
 // console.log(sum(30, 20, add))
 
 // IIFE function
-(function (name){
-    console.log(`${name}`)
-})("alif")
+// (function (name){
+//     console.log(`${name}`)
+// })("alif")
+
+
+
+ let x = 5;
+  x += 10;
+ console.log(x);
+
