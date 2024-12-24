@@ -68,7 +68,21 @@
 
 
 
- let x = 5;
-  x += 10;
- console.log(x);
+//  let x = 5;
+//   x += 10;
+//  console.log(x);
 
+// function div(pages, pagePerDay){
+//     return(pages/pagePerDay);
+// };
+// console.log(div(400 , 7));
+
+
+function pages(page, day){
+    let x = 10;
+    console.log(x);
+    let days = page/day;
+    return `400 page = ${days} days`;
+} 
+let totalDays = (pages(400, 7));
+console.log(totalDays);
