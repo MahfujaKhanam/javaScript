@@ -71,6 +71,36 @@
 
 
 // arrray includes method
-let number = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 120];
-let inc = number.find(40);
-console.log(inc);
+// let number = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 120];
+// let inc = number.find(40);
+// console.log(inc);
+
+// array object
+
+let user=[
+    {
+        name: 'mursheda',
+        fathersname: 'maynul'
+    },
+    {
+        name: 'najma',
+        fathersname: 'kuddus'
+    },
+    {
+        name: 'moyna',
+        fathersname: 'rohim'
+    },
+    {
+        name: 'kulsum',
+        fathersname: 'mokles'
+    },
+    {
+        name: 'sumiaya',
+        fathersname: 'johirul'
+    },
+    {
+        name: 'jorina',
+        fathersname: 'korim'
+    },
+]
+console.log(user[2].name);
