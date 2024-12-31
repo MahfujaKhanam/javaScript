@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+nav{
+    height: 80px;
+    background: #2c3e50;
+}
+nav img{
+    width: 120px;
+    position: absolute;
+    left: 12%;
+}
+nav ul{
+    float: right;
+    margin-right: 35px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0;
+}
+nav ul li a {
+position: relative;
+color: white;
+margin: 5px;
+font-size: 18px;
+padding: 5px 0;
+text-transform: uppercase;
+}
+nav ul li a:before{
+position: absolute;
+left: 0;
+bottom: 0;
+content: "";
+height: 3px;
+width: 100%;
+background: #fff;
+transform: scalex(0);
+transform-origin: right;
+transition: transform 0.4s linear;
+}
+nav ul li a:hover::before{
+    transform: scaleX(1);
+    transform-origin: left;
+}
+label #open,
+label #close {
+    color: white;
+    font-size: 30px;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    display: none;
+}
+#check {
+    display: none;
+}
+/* card css */
+
+.grid-product {
+display: grid;
+grid-template-columns: repeat(3,1fr);
+gap: 20px;
+background-color: beige;
+}
+.grid-product .product h1{
+    color: red;
+    margin-bottom: 20px;
+}
+.product .price{
+    color: red;
+}
+.product button{
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    cursor: pointer;
+}
+.product{
+    background-color: aliceblue;
+    text-align: center;
+    margin: 20px auto;
+    padding: 5px;
+    width: 360px;
+    height: 490px;
+    box-shadow: 2px 2px 2px 4px gray;
+}
+.product p{
+    margin-bottom: 20px;
+}
+@media screen and (max-width:576px) {
+    nav img{
+        left: 2%
+    }
+    nav{
+        position: fixed;
+        width: 100%;
+    }
+    label #open {
+        display: block;
+        cursor: pointer;
+    }
+    ul {
+        position: fixed;
+        width: 50%;
+        height: 100vh;
+        background: #34495e;
+        top: 80px;
+        left: -100%;
+        text-align: center;
+        transition: all 0.5s;
+    }
+    nav ul li {
+        display: block;
+        margin: 0px 0;
+        line-height: 60px;
+    }
+    nav ul li a {
+        font-size: 20px;
+    }
+    #check:checked ~ ul {
+        left: 0;
+    }
+    #check:checked ~ label #open {
+        display: none;
+    }
+    #check:checked ~ label #close {
+        display: block;
+        cursor: pointer;
+    }
+    
+    .grid-product{
+        grid-template-columns: repeat(1,1fr);
+    }
+    
+}
+@media screen and (min-width:577px) and (max-width:992px) {
+    .grid-product{
+        grid-template-columns: repeat(2,1fr);
+    }
+}

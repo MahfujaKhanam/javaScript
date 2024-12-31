@@ -1,0 +1,200 @@
+[
+    {
+        "id" : 1,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+         "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    },
+    {
+        "id" : 2,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+        "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    },
+    {
+        "id" : 3,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+        "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    },
+    {
+        "id" : 4,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+        "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    },
+    {
+        "id" : 5,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+        "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    },
+    {
+        "id" : 6,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+        "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    },
+    {
+        "id" : 6,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+        "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    },
+    {
+        "id" : 6,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+        "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    },
+    {
+        "id" : 6,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+         "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    },
+    {
+        "id" : 6,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+        "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    },
+    {
+        "id" : 6,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+         "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    },
+    {
+        "id" : 6,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+         "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    },
+    {
+        "id" : 6,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+         "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    },
+    {
+        "id" : 6,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+         "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    },
+    {
+        "id" : 6,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+         "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    },
+    {
+        "id" : 6,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+         "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    },
+    {
+        "id" : 6,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+         "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    },
+    {
+        "id" : 6,
+         "name" : "Wireless Headphones",
+         "description" : "Noice-cancelling over-ear headphones with bluetooth connectivity.",
+         "price" : 99.99,
+         "category" : "Electronics",
+         "inStock" : true,
+         "tags" : ["audio", "wireless", "bluetooth"],
+         "rating" : 4.5,
+         "img" : "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-5-2400g-desktop-pc-04-228x228.webp"
+    }
+]

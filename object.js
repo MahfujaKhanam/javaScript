@@ -1,25 +1,32 @@
 // object declar
-let person = {
-    firstName : 'Julykha',
-    lastName : 'Begum',
-    age : 29,
-    isAdmin : true
-};
+// let person = {
+//     firstName : 'Julykha',
+//     lastName : 'Begum',
+//     age : 29,
+//     isAdmin : true
+// };
+
+
 // add data
-person.nationality = 'Bangladeshi';
+// person.nationality = 'Bangladeshi';
+
 
 // update data
-person.firstName = 'rose';
+// person.firstName = 'rose';
+
 
 // delete data
-delete person.lastName;
+// delete person.lastName;
+
+
 
 // bracket notation
-let userName = person['firstName'];
+// let userName = person['firstName'];
+
 
 // dot notation
-let name = person.firstName;
-console.log(person);
+// let name = person.firstName;
+// console.log(person);
 
 
 
@@ -47,3 +54,21 @@ console.log(person);
 
 // let carModel = car['model']?.['modelA6']?.['price'];
 // console.log(carModel);
+
+
+// let user = {
+//     firstName : 'Korim',
+//     lastName : 'Khan',
+//     age : 34,
+//     isAdmin : true
+// };
+
+
+// json
+
+let user = {
+    'firstName' : 'Korim',
+    'lastName' : 'Khan',
+    'age' : 34,
+    'isAdmin' : true
+};
